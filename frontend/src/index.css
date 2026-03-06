@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* We set a global dark background for our dashboard */
+body {
+  background-color: #0f172a; /* This is Tailwind's slate-900 color */
+  color: white;
+}
